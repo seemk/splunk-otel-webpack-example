@@ -3,6 +3,7 @@
 ```
 npm install
 npm run build
+cd docker
 docker -f otel.yml up
 ```
 
