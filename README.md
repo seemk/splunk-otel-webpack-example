@@ -4,7 +4,7 @@
 npm install
 npm run build
 cd docker
-docker -f otel.yml up
+docker compose -f otel.yml up
 ```
 
 ```
